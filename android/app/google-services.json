@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202253246155",
+    "project_id": "messageme-bb72c",
+    "storage_bucket": "messageme-bb72c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202253246155:android:aa4df0b4c9a7df7c77854e",
+        "android_client_info": {
+          "package_name": "com.glare.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202253246155-56itqslcnmad2tl573hgknfa96f6m6u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuk9DFYxiqaejMWtozygXSRim6mkV_taM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202253246155-56itqslcnmad2tl573hgknfa96f6m6u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
